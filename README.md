@@ -1,1 +1,3 @@
-    • Aggie Hackathon Finalist 2023 Sponsored by Z by HP & Google Cloud – Predicted printer repurchase propensity using Python & leveraged first party data for customer segmentation for tailored marketing.   
+    • Aggie Hackathon Finalist 2023 Sponsored by Z by HP & Google Cloud –
+    Predicted printer repurchase propensity using Python & leveraged
+    first party data for customer segmentation for tailored marketing.   
